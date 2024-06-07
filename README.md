@@ -1,3 +1,3 @@
 # About-me
 ### Hello there!
-## I am Monir, a student who are passonate about learning new skills.
+## I am Monir. I am a student. I am passonate about learning new skills.
